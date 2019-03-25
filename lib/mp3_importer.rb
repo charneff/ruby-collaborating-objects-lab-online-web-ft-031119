@@ -1,5 +1,6 @@
-class MP3Importer(file_path)
-  
-  
+class MP3Importer
+  def initialize(path)
+    
+  end
   
 end
